@@ -4,6 +4,8 @@ Simple project
 
 Test
 
+More changes from feature
+
 ## Introduction
 
 Text here
