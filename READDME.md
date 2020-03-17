@@ -16,3 +16,7 @@ Test goes in here
 
 ## How To Contribute
 
+## Copyright
+
+Training
+
