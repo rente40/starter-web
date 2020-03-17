@@ -4,6 +4,8 @@ Simple project
 
 ## Introduction
 
+Text here
+
 ## Purpose
 
 ## Deployment
